@@ -2,5 +2,7 @@
 	"cf_ads_when_restart":0.5,
 	"cf_is_ads_each_lvl" :false,
 	"cf_rate_level":6,
-	"cf_ads_when_restart_after_lvl":50
+	"cf_ads_when_restart_after_lvl":50,
+	"cf_show_alert":true,
+	"cf_alert":"I'm NAT!"
 }
