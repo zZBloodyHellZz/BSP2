@@ -1,5 +1,6 @@
 {
 	"cf_ads_when_restart":0.0,
 	"cf_is_ads_each_lvl" :false,
-	"cf_rate_level":6
+	"cf_rate_level":6,
+	"cf_ads_when_restart_after_lvl":2
 }
