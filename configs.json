@@ -4,5 +4,6 @@
 	"cf_rate_level":6,
 	"cf_ads_when_restart_after_lvl":50,
 	"cf_show_alert":false,
-	"cf_alert":"I'm NAT!"
+	"cf_alert":"I'm NAT!",
+	"cf_ads":["FAN","admob","unity_ads"]
 }
