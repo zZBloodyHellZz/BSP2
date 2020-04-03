@@ -6,7 +6,7 @@
 	"cf_show_alert":false,
 	"cf_alert":"I'm NAT!",
 	"cf_ads":["admob","FAN","unity_ads"],
-	"cf_banner":["FAN","admob","unity_ads"],
+	"cf_banner":["admob","FAN","unity_ads"],
 	"cf_popup":["admob","FAN","unity_ads"],
 	"cf_reward":["admob","FAN","unity_ads"],
 	"cf_IAP_waitime":1,
