@@ -4,7 +4,7 @@
 	"cf_rate_level":5,
 	"cf_ads_when_restart_after_lvl":50,
 	"cf_show_alert":true,
-	"cf_alert":"The current version is in error",
+	"cf_alert":"The current version is in error\n If your device fails please wait for 3 days",
 	"cf_ads":["admob","FAN","unity_ads"],
 	"cf_banner":["admob","FAN","unity_ads"],
 	"cf_popup":["admob","FAN","unity_ads"],
