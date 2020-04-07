@@ -6,7 +6,7 @@
 	"cf_show_alert":true,
 	"cf_alert":"The latest version 2.6.8 \n has been released!",
 	"cf_ads":["admob","FAN","unity_ads"],
-	"cf_banner":["FAN","admob","unity_ads"],
+	"cf_banner":["admob","FAN","unity_ads"],
 	"cf_popup":["admob","FAN","unity_ads"],
 	"cf_reward":["admob","FAN","unity_ads"],
 	"cf_IAP_waitime":2,
