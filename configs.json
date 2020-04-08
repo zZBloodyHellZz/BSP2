@@ -4,7 +4,7 @@
 	"cf_rate_level":5,
 	"cf_ads_when_restart_after_lvl":50,
 	"cf_show_alert":true,
-	"cf_alert":"The latest version 2.6.8 \n has been released!",
+	"cf_alert":"$2.99 is only equal to 1 cup of coffee \n but you will not be bothered by ads!",
 	"cf_ads":["admob","FAN","unity_ads"],
 	"cf_banner":["admob","FAN","unity_ads"],
 	"cf_popup":["admob","FAN","unity_ads"],
