@@ -7,7 +7,7 @@
 	"cf_alert":"$2.99 is only equal to a cup of coffee \n but you will not be bothered by ads! \n \n Your support will be a great motivation \n for us to develop more great games :)",
 	"cf_ads":["admob","FAN","unity_ads"],
 	"cf_banner":["admob","FAN","unity_ads"],
-	"cf_popup":["admob","FAN","unity_ads"],
+	"cf_popup":["admob","unity_ads","FAN"],
 	"cf_reward":["admob","FAN","unity_ads"],
 	"cf_IAP_waitime":2,
 	"cf_banner_size":1,
