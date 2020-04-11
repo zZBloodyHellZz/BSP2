@@ -4,7 +4,7 @@
 	"cf_rate_level":5,
 	"cf_ads_when_restart_after_lvl":50,
 	"cf_show_alert":true,
-	"cf_alert":"Hello!Have nice day!",
+	"cf_alert":"Hello! \n Have nice day!",
 	"cf_ads":["admob","FAN","unity_ads"],
 	"cf_banner":["admob","FAN","unity_ads"],
 	"cf_popup":["admob","unity_ads","FAN"],
