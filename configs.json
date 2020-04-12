@@ -9,7 +9,7 @@
 	"cf_banner":["admob","FAN","unity_ads"],
 	"cf_popup":["admob","unity_ads","FAN"],
 	"cf_reward":["admob","FAN","unity_ads"],
-	"cf_IAP_waitime":2,
+	"cf_IAP_waitime":0.5,
 	"cf_banner_size":1,
 	"cf_levels_per_ads":2,
 	"cf_ads_each_lvl_after_level":3
