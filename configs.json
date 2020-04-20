@@ -6,7 +6,7 @@
 	"cf_show_alert":true,
 	"cf_alert":"Hello! \n Have nice day!",
 	"cf_ads":["admob","FAN","unity_ads"],
-	"cf_banner":["admob","FAN","unity_ads"],
+	"cf_banner":["FAN","admob","unity_ads"],
 	"cf_popup":["admob","unity_ads","FAN"],
 	"cf_reward":["admob","FAN","unity_ads"],
 	"cf_IAP_waitime":0.5,
