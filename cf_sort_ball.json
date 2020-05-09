@@ -13,5 +13,5 @@
 	"cf_banner_size":1,
 	"cf_levels_per_ads":2,
 	"cf_ads_each_lvl_after_level":30,
-	"cf_delay_ads":20
+	"cf_delay_ads":30
 }
